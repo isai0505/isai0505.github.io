@@ -1,11 +1,11 @@
 # Site settings
 author: Isai Bismark Cortez
-title: 
+title: Nerd
 header-img: img/home-bg.png
 email: isai0505@gmail.com
 copyright_name: Isai Bismark Cortez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tax and Law
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  isai0505
