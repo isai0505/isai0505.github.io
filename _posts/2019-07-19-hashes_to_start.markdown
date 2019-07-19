@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hashes to start"
-date:       2019-07-19 14:30:57 +0000
+date:       2019-07-19 10:30:58 -0400
 permalink:  hashes_to_start
 ---
 
